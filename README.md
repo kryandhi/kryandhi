@@ -30,4 +30,4 @@ I’m an undergraduate student in Mathematics at Institut Teknologi Sepuluh Nope
 
 
 ## 📬 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/kryandhi)
+- [LinkedIn](https://www.linkedin.com/in/komangryandhi)
