@@ -29,5 +29,5 @@ I’m an undergraduate student in Mathematics at Institut Teknologi Sepuluh Nope
 - **Adaro Foundation Scholarship Awardee** - PT Adaro Energy Indonesia (2023 - 2025)
 
 
-## 📬 How to Reach Me
+## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/komangryandhi)
