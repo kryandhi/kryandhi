@@ -24,8 +24,10 @@ I’m an undergraduate student in Mathematics at Institut Teknologi Sepuluh Nope
 ## 🏆 Achievements
 - **1st Place** - ICT Business Plan Division at Hology 7.0 (2024)
 - **1st Place** - UNITY #12 National IT Competition (2024)
-- **Honorable Mention** - GEMASTIK XVI (2023) in Smart City Division
 - **Top 65 Teams** - Healthkathon BPJS Kesehatan (2024)
+- **Honorable Mention** - GEMASTIK XVI (2023) in Smart City Division
+- **Adaro Foundation Scholarship Awardee** - PT Adaro Energy Indonesia (2023 - 2025)
+
 
 ## 📬 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/kryandhi)
