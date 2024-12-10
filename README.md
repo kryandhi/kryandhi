@@ -1,4 +1,4 @@
-# Hi, I'm Komang Ryandhi Suandita 👋
+# Hello all, I'm Komang Ryandhi Suandita 👋
 
 **Welcome to my GitHub!** 🚀  
 I’m an undergraduate student in Mathematics at Institut Teknologi Sepuluh Nopember (ITS), with a strong interest in Data Analytics, Machine Learning, and ICT Business. I'm passionate about solving real-world problems using mathematical concepts and AI. Currently, I'm focused on developing Recommendation Systems, UI/UX Design, and Smart City Integration Testing.
@@ -17,9 +17,9 @@ I’m an undergraduate student in Mathematics at Institut Teknologi Sepuluh Nope
   
 ## Skills
 - **Languages**: Python, Java, HTML, Matlab
-- **Frameworks**: TensorFlow, Pytorch, Tailwind
-- **Tools**: Git, Google Cloud Platform (GCP), Figma
+- **Tools**: TensorFlow, Pytorch, Google Cloud Platform (GCP), Figma
 - **Specializations**: Data Analytics, AI, Smart Cities, UI/UX Design
+- **SoftSkill**: Project Management & Team Leading
 
 ## 🏆 Achievements
 - **1st Place** - ICT Business Plan Division at Hology 7.0 (2024)
