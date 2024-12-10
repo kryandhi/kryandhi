@@ -3,7 +3,7 @@
 **Welcome to my GitHub!** 🚀  
 I’m an undergraduate student in Mathematics at Institut Teknologi Sepuluh Nopember (ITS), with a strong interest in Data Analytics, Machine Learning, and ICT Business. I'm passionate about solving real-world problems using mathematical concepts and AI. Currently, I'm focused on developing Recommendation Systems, UI/UX Design, and Smart City Integration Testing.
 
-## Currently Learning & Working On
+## Currently Learning
 - **Machine Learning**
 - **Smart City Projects**
 - **Business Development**
