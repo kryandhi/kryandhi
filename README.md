@@ -7,9 +7,9 @@ I’m an undergraduate student in Mathematics at Institut Teknologi Sepuluh Nope
 - **Smart City Projects**
 - **Business Development**
 ## 🛠️ Skills
-- **Languages**: Python, JavaScript
-- **Frameworks**: TensorFlow, Convolutional Neural Networks
-- **Tools**: Git, Docker, Kubernetes, Google Cloud Platform (GCP)
+- **Languages**: Python, Java, HTML, Matlab
+- **Frameworks**: TensorFlow, Pytorch
+- **Tools**: Git, Google Cloud Platform (GCP), Figma
 - **Specializations**: Data Analytics, AI, Smart Cities, UI/UX Design
 
 ## 🏆 Achievements
