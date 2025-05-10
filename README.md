@@ -13,8 +13,8 @@ I’m an undergraduate student in Mathematics at Institut Teknologi Sepuluh Nope
 ## Skills
 - **Languages**: Python, Java, HTML, Matlab
 - **Tools**: TensorFlow, Pytorch, Google Cloud Platform (GCP), Figma
-- **Specializations**: Data Analytics, AI, Smart Cities, UI/UX Design
-- **SoftSkill**: Project Management & Team Leading
+- **Specializations**: Data Analytics, AI, Smart Cities
+- **SoftSkill**: Project Management 
 
 ## 🏆 Achievements
 - **1st Place** - ICT Business Plan Division at Hology 7.0 (2024)
