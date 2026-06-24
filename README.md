@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub!**  
 I’m fresh graduate in Mathematics at Institut Teknologi Sepuluh Nopember (ITS), with a strong interest in Data Analytics, Machine Learning, and ICT Business. I'm passionate about solving real-world problems using mathematical concepts and AI. Currently, I'm focused on developing Recommendation Systems, UI/UX Design, and Smart City Integration Testing.
-Hacker Rank: https://www.hackerrank.com/profile/kryandhi
+- Hacker Rank: https://www.hackerrank.com/profile/kryandhi
 
 ## Current Focus in Deep Learning (Recommender Systems)
 
